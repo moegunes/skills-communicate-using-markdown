@@ -1,7 +1,3 @@
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-Header 7
+# We add image now
+![Image of Yaktocat](https://github.com/user-attachments/assets/644b962b-1ca5-4941-8ace-61f2cf1adb03)
+
