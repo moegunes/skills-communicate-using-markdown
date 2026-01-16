@@ -20,4 +20,9 @@ then do
 python3 -i run_script.py
 ```
 
+## Todo list
+- [x] Try the new proposition for the optimal alpha.
+- [x] Do rs=2,5,10 full runs.
+- [ ] Decide to keep alpha or do individual allpha opt for each vq,q.
+
 
